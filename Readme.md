@@ -12,5 +12,3 @@ O arquivo vai ser alteraodo para poder ser dispobilizado no repositório
 dadsadsadsadsadsadsadsa
 
 Este é o meu primeiro cursos sobre GIT e GITHUB
-
-teste de revert
