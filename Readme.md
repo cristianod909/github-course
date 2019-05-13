@@ -9,3 +9,6 @@ Fizemos mais uma alteração no arquivo alterando
 
 O arquivo vai ser alteraodo para poder ser dispobilizado no repositório
 
+dadsadsadsadsadsadsadsa
+
+Este é o meu primeiro cursos sobre GIT e GITHUB
